@@ -1,7 +1,7 @@
 ### 👋
 ![](hellothereobi.gif)
 
-<summary><b>Things I use and work on or have worked on 🛠️</b></summary>
+### Things I use and work on or have worked on <img src="peepochat.gif" width="40">
 
 <p> 
   
