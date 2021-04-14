@@ -34,9 +34,7 @@ I'm a computer science student from the University of Helsinki.
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=NuiS4ncE&count_private=true&show_icons=trues&theme=blue-green">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NuiS4ncE&count_private=true&show_icons=trues&theme=blue-green" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NuiS4ncE&theme=blue-green">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuiS4ncE&theme=blue-green" />
-</a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NuiS4ncE&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuiS4ncE&theme=blue-green)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NuiS4ncE.NuiS4ncE)
