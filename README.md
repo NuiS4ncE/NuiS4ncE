@@ -4,7 +4,7 @@
 I'm a computer science student from the University of Helsinki.
 </p>
 
-<p align='center'> These are the things I use and work on or have worked on <img src="peepochat.gif" width="40"> </p>
+<p align='center'> These are the things I use and work on or have worked on </p>
 
 <p> 
   
