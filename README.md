@@ -44,7 +44,7 @@ I'm a computer science student from the University of Helsinki.
 [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NuiS4ncE&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuiS4ncE&theme=blue-green)
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NuiS4ncE&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NuiS4ncE&theme=blue-green)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NuiS4ncE.NuiS4ncE)
