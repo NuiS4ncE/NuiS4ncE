@@ -4,7 +4,7 @@
 I'm a computer science student studying at the University of Helsinki.
 </p>
 
-<p align='center'> These are the things I use and work with or have worked with </p>
+<p align='center'> These are the things I use and work with or have used or worked with </p>
 
 <p> 
   
@@ -29,6 +29,7 @@ I'm a computer science student studying at the University of Helsinki.
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)]()
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-D83B01?style=for-the-badge&logo=visual-studio&logoColor=white)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)]()
 [![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
@@ -42,6 +43,7 @@ I'm a computer science student studying at the University of Helsinki.
 [![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)]()
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)]()
 [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)]()
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NuiS4ncE&show_icons=true&theme=transparent)
