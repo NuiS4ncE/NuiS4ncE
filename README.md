@@ -1,7 +1,7 @@
 <p align='center'> <img src= "hellothereobi.gif"> </p>
 
 <p align='center'>
-I'm a computer science student from the University of Helsinki.
+I'm a computer science student studying at the University of Helsinki.
 </p>
 
 <p align='center'> These are the things I use and work with or have worked with </p>
